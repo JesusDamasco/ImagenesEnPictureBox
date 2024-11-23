@@ -1,0 +1,17 @@
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\bin\Debug\net6.0-windows\ImagenesEnPictureBox.exe
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\bin\Debug\net6.0-windows\ImagenesEnPictureBox.deps.json
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\bin\Debug\net6.0-windows\ImagenesEnPictureBox.runtimeconfig.json
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\bin\Debug\net6.0-windows\ImagenesEnPictureBox.dll
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\bin\Debug\net6.0-windows\ImagenesEnPictureBox.pdb
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\obj\Debug\net6.0-windows\ImagenesEnPictureBox.Form1.resources
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\obj\Debug\net6.0-windows\ImagenesEnPictureBox.Properties.Resources.resources
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\obj\Debug\net6.0-windows\ImagenesEnPictureBox.csproj.GenerateResource.cache
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\obj\Debug\net6.0-windows\ImagenesEnPictureBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\obj\Debug\net6.0-windows\ImagenesEnPictureBox.AssemblyInfoInputs.cache
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\obj\Debug\net6.0-windows\ImagenesEnPictureBox.AssemblyInfo.cs
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\obj\Debug\net6.0-windows\ImagenesEnPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\obj\Debug\net6.0-windows\ImagenesEnPictureBox.dll
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\obj\Debug\net6.0-windows\refint\ImagenesEnPictureBox.dll
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\obj\Debug\net6.0-windows\ImagenesEnPictureBox.pdb
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\obj\Debug\net6.0-windows\ImagenesEnPictureBox.genruntimeconfig.cache
+C:\Users\damas\source\repos\ImagenesEnPictureBox\ImagenesEnPictureBox\obj\Debug\net6.0-windows\ref\ImagenesEnPictureBox.dll
